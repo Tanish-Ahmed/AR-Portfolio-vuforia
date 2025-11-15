@@ -1,4 +1,4 @@
-# 🚀 AR Portfolio Project (Unity + Vuforia)
+# 🚀 AR Business Card Project (Unity + Vuforia)
 
 This project combines:
 - AR Business Card (with 3D text, intro video, LinkedIn & GitHub links)
