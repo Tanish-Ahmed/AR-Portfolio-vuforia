@@ -5,7 +5,7 @@ This project combines:
 - AR Product Demo (3D Shoe model with rotate & color-change interaction)
 
 ## 🎥 Demo
-[Add GIF or video link here]
+https://github.com/Tanish-Ahmed/AR-Portfolio-vuforia/blob/main/ar%20business%20card%20demo%20.mp4
 
 ## 🛠 Tools
 - Unity 6
