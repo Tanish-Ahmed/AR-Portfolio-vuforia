@@ -2,7 +2,6 @@
 
 This project combines:
 - AR Business Card (with 3D text, intro video, LinkedIn & GitHub links)
-- AR Product Demo (3D Shoe model with rotate & color-change interaction)
 
 ## 🎥 Demo
 https://github.com/Tanish-Ahmed/AR-Portfolio-vuforia/blob/main/ar%20business%20card%20demo%20.mp4
